@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tulbgnui
+- 👀 I’m interested in using software as a daily tool
+- 🌱 I’m currently learning Yaml
+- 📫 How to reach me: gnulpp@yahoo.com
+- ⚡ Fun fact: No fun, no bugs
